@@ -9,7 +9,7 @@ const App = () => {
       <h1>Animal Adoptions</h1>
       <div>
         {data.animals.map((animal) => (
-          <Animal key={animal.id} animal={animal} />
+          <Animal key={animal.guid} animal={animal} />
         ))}
       </div>
     </div>
