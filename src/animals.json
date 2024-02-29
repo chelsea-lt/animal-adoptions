@@ -235,7 +235,7 @@
       "description": "My name is Luna. I am an affectionate cuddle bug that loves the company of people! I can be a bit shy at first, but once I become more comfortable I will start to show my true affectionate side.",
       "likes": [
         {
-          "id":25,
+          "id": 25,
           "name": "sponges"
         },
         {
@@ -273,25 +273,25 @@
       "description": "My name is Roscoe. I love to spend time outside bathing in the sun and stretching my legs. I love to play with balls and toys, as well as going on long walks.",
       "likes": [
         {
-          "id": 1,
+          "id": 27,
           "name": "sniffing everything"
         },
         {
-          "id": 2,
+          "id": 28,
           "name": "balls"
         },
         {
-          "id": 2,
+          "id": 18,
           "name": "sun"
         }
       ],
       "dislikes": [
         {
-          "id": 99,
+          "id": 29,
           "name": "other dogs"
         },
         {
-          "id": 98,
+          "id": 30,
           "name": "water"
         }
       ]
@@ -311,25 +311,25 @@
       "description": "My name is Remy. I am very intelligent and love to play, so please give me lots of toys so I don't get bored. I can be quite shy sometimes but love to cuddle and hide in your pockets.",
       "likes": [
         {
-          "id": 1,
+          "id": 31,
           "name": "pockets"
         },
         {
-          "id": 2,
+          "id": 12,
           "name": "pats"
         },
         {
-          "id": 2,
+          "id": 32,
           "name": "other rats"
         }
       ],
       "dislikes": [
         {
-          "id": 99,
+          "id": 33,
           "name": "being alone"
         },
         {
-          "id": 98,
+          "id": 7,
           "name": "loud noises"
         }
       ]
@@ -349,25 +349,25 @@
       "description": "My name is Clarence. I am a happy kitten who loves to play and has lots of love to give. I only have one eye, so will need to be indoors only, and prefer a quiet household.",
       "likes": [
         {
-          "id": 1,
+          "id": 28,
           "name": "balls"
         },
         {
-          "id": 2,
+          "id": 34,
           "name": "string"
         },
         {
-          "id": 2,
+          "id": 35,
           "name": "feathers"
         }
       ],
       "dislikes": [
         {
-          "id": 99,
+          "id": 36,
           "name": "cars"
         },
         {
-          "id": 98,
+          "id": 24,
           "name": "kids"
         }
       ]
@@ -387,7 +387,7 @@
       "description": "My name is Kelly. I like a more relaxed slow environment where things are predictable, and I get plenty of rest time. I just enjoy the simple things like sniffing around, eating, sleeping, and getting lots of attention from humans.",
       "likes": [
         {
-          "id": 1,
+          "id": 20,
           "name": "sleeping"
         },
         {
@@ -397,11 +397,11 @@
       ],
       "dislikes": [
         {
-          "id": 99,
+          "id": 4,
           "name": "fireworks"
         },
         {
-          "id": 98,
+          "id": 7,
           "name": "loud noises"
         }
       ]
@@ -421,25 +421,25 @@
       "description": "My name is Bella. I am a sweet staffy girl with a big heart. I can be quite excitable and need someone who can read my body language and help manage my energy. I prefer a home with older children who can engage with me safely.",
       "likes": [
         {
-          "id": 1,
+          "id": 37,
           "name": "running"
         },
         {
-          "id": 2,
+          "id": 38,
           "name": "frisbees"
         },
         {
-          "id": 2,
+          "id": 28,
           "name": "balls"
         }
       ],
       "dislikes": [
         {
-          "id": 99,
+          "id": 29,
           "name": "other dogs"
         },
         {
-          "id": 98,
+          "id": 39,
           "name": "baths"
         }
       ]
@@ -459,7 +459,7 @@
       "description": "My name is Nala. I will be a little shy at first but once I get to know you, I am an extremely affectionate girl. I prefer to be able to take things at my own pace and so would benefit from a home with older children who can respect my boundaries and know when its time to give me a break.",
       "likes": [
         {
-          "id": 1,
+          "id": 40,
           "name": "being outside"
         },
         {
@@ -467,13 +467,13 @@
           "name": "treats"
         },
         {
-          "id": 2,
+          "id": 15,
           "name": "walks"
         }
       ],
       "dislikes": [
         {
-          "id": 99,
+          "id": 17,
           "name": "vets"
         }
       ]
@@ -493,21 +493,21 @@
       "description": "My name is Ashley. I am a shy but curious kitten. Loud noises tend to make me a tad wary, so I'm on the lookout for a tranquil haven where the serenity matches my gentle nature. If you have a quiet house, I believe we could be the perfect match.",
       "likes": [
         {
-          "id": 1,
+          "id": 41,
           "name": "snuggling"
         },
         {
-          "id": 2,
+          "id": 42,
           "name": "sleeping in the sun"
         }
       ],
       "dislikes": [
         {
-          "id": 99,
+          "id": 7,
           "name": "loud noises"
         },
         {
-          "id": 98,
+          "id": 24,
           "name": "kids"
         }
       ]
@@ -527,25 +527,25 @@
       "description": "My name is Cruise. I am a playful rabbit and love attention and company from my humans in the form of gentle pats and quiet conversations. I would ideally like to go home to a quiet and peaceful household.",
       "likes": [
         {
-          "id": 1,
+          "id": 12,
           "name": "pats"
         },
         {
-          "id": 2,
+          "id": 6,
           "name": "carrots"
         },
         {
-          "id": 2,
+          "id": 11,
           "name": "cuddles"
         }
       ],
       "dislikes": [
         {
-          "id": 99,
+          "id": 7,
           "name": "loud noises"
         },
         {
-          "id": 98,
+          "id": 24,
           "name": "kids"
         }
       ]
@@ -565,21 +565,21 @@
       "description": "My name is Zeus. I'm a big boy, all grown up with my silly puppy days well behind me. I enjoy the simple things in life, a good snooze, some tasty foods, some people to hang out with, and some nice green grass. Don't let my size fool you, I'm actually very gentle and sweet natured, the perfect companion for almost any household!",
       "likes": [
         {
-          "id": 1,
+          "id": 43,
           "name": "routine"
         },
         {
-          "id": 2,
+          "id": 28,
           "name": "balls"
         },
         {
-          "id": 2,
+          "id": 44,
           "name": "long walks"
         }
       ],
       "dislikes": [
         {
-          "id": 99,
+          "id": 45,
           "name": "other male dogs"
         }
       ]
@@ -599,7 +599,7 @@
       "description": "My name is Marley. I'm a sweet little girl that is on the search for my new furever home! I love to lounge around more then run around so I won't need to go out all that often. I will need a nice cool place especially in the hotter months as it is harder for me to breath then most other dogs.",
       "likes": [
         {
-          "id": 1,
+          "id": 29,
           "name": "sleeping"
         },
         {
@@ -609,11 +609,11 @@
       ],
       "dislikes": [
         {
-          "id": 99,
+          "id": 29,
           "name": "other dogs"
         },
         {
-          "id": 98,
+          "id": 7,
           "name": "loud noises"
         }
       ]
@@ -633,25 +633,25 @@
       "description": "My name is Jellybean. I am friendly and loving but being a rabbit I can scare easily so I don’t like being handled too roughly. A little time and patience with handling should have me snuggling up to you in no time.",
       "likes": [
         {
-          "id": 1,
-          "name": "snuggles"
+          "id": 41,
+          "name": "snuggling"
         },
         {
-          "id": 2,
+          "id": 46,
           "name": "fruit"
         },
         {
-          "id": 2,
+          "id": 22,
           "name": "toys"
         }
       ],
       "dislikes": [
         {
-          "id": 99,
+          "id": 18,
           "name": "sun"
         },
         {
-          "id": 98,
+          "id": 7,
           "name": "loud noises"
         }
       ]
@@ -671,21 +671,21 @@
       "description": "My name is Buster. I am a super smart and handsome bundle of love just waiting for my very own family to come and adopt me. I would love to have indoor and outdoor access in my new home, I love my humans and can see myself curled up on the couch with you at night watching our fav show.",
       "likes": [
         {
-          "id": 1,
+          "id": 20,
           "name": "sleeping"
         },
         {
-          "id": 2,
+          "id": 12,
           "name": "pats"
         },
         {
-          "id": 2,
-          "name": "sniffing"
+          "id": 27,
+          "name": "sniffing everything"
         }
       ],
       "dislikes": [
         {
-          "id": 99,
+          "id": 29,
           "name": "other dogs"
         }
       ]
@@ -705,21 +705,21 @@
       "description": "My name is Winston. I am a very curious and happy puppy, excited to explore the world with you! I have a lot of energy and love playing with toys, learning new tricks and getting yummy treats.",
       "likes": [
         {
-          "id": 1,
+          "id": 2,
           "name": "treats"
         },
         {
-          "id": 2,
+          "id": 22,
           "name": "toys"
         },
         {
-          "id": 2,
+          "id": 15,
           "name": "walks"
         }
       ],
       "dislikes": [
         {
-          "id": 99,
+          "id": 33,
           "name": "being alone"
         }
       ]
@@ -739,21 +739,21 @@
       "description": "My name is Raymond. I am a playful guinea pig that does well with kids.  I would love a nice and secure enclosure with plenty on hiding spaces. I love to be handled but need supervision with kids.",
       "likes": [
         {
-          "id": 1,
+          "id": 12,
           "name": "pats"
         },
         {
-          "id": 2,
-          "name": "snuggles"
+          "id": 41,
+          "name": "snuggling"
         },
         {
-          "id": 2,
+          "id": 47,
           "name": "greens"
         }
       ],
       "dislikes": [
         {
-          "id": 99,
+          "id": 7,
           "name": "loud noises"
         }
       ]
@@ -771,25 +771,23 @@
       },
       "id": 992201,
       "description": "My name is Dixon. I'm a medium energy boy and will love to be occupied throughout the day, but I do love my naps too! I would love to have nice quiet walks, lots of yummy treats, play with the family, and maybe even have a nice sand pit to dig in.",
-      "likes": ["walks", "naps"],
-      "dislikes": ["other male dogs", "fireworks"]
       "likes": [
         {
-          "id": 1,
+          "id": 15,
           "name": "walks"
         },
         {
-          "id": 2,
-          "name": "naps"
+          "id": 20,
+          "name": "sleeping"
         }
       ],
       "dislikes": [
         {
-          "id": 99,
+          "id": 45,
           "name": "other male dogs"
         },
         {
-          "id": 98,
+          "id": 4,
           "name": "fireworks"
         }
       ]
@@ -809,30 +807,30 @@
       "description": "My name is Katana. I adore being close to my humans, whether it's snuggling on the couch, curling up in your lap, or simply rubbing against your legs for attention. My purrs will be music to your ears, and my gentle demeanor will make you feel truly cherished.",
       "likes": [
         {
-          "id": 1,
-          "name": "naps"
+          "id": 20,
+          "name": "sleeping"
         },
         {
-          "id": 2,
+          "id": 48,
           "name": "scratching posts"
         },
         {
-          "id": 2,
+          "id": 18,
           "name": "sun"
         }
       ],
       "dislikes": [
         {
-          "id": 99,
+          "id": 49,
           "name": "dogs"
         },
         {
-          "id": 98,
+          "id": 30,
           "name": "water"
         },
         {
-          "id": 98,
-          "name": "children"
+          "id": 24,
+          "name": "kids"
         }
       ]
     },
@@ -851,21 +849,21 @@
       "description": "My name is Sonic. I am a sweet and active little boy. I am looking for a loving family who will spoil me with love and attention. I love to cuddle and play and I am waiting for my new best friend to spend my life with.",
       "likes": [
         {
-          "id": 1,
+          "id": 27,
           "name": "running"
         },
         {
-          "id": 2,
+          "id": 11,
           "name": "cuddles"
         },
         {
-          "id": 2,
+          "id": 28,
           "name": "balls"
         }
       ],
       "dislikes": [
         {
-          "id": 99,
+          "id": 50,
           "name": "being bored"
         }
       ]
@@ -885,17 +883,17 @@
       "description": "My name is Woody. I am a nice and young rabbit with lots of love to give. After getting to know me, you will start to see my playful side and everyone who meets me makes sure to tell me how adorable I am.",
       "likes": [
         {
-          "id": 1,
+          "id": 6,
           "name": "carrots"
         },
         {
-          "id": 2,
+          "id": 51,
           "name": "hay"
         }
       ],
       "dislikes": [
         {
-          "id": 99,
+          "id": 9,
           "name": "being picked up"
         }
       ]
