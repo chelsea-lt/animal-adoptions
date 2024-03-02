@@ -52,3 +52,11 @@ img {
   flex-wrap: wrap;
   justify-content: center;
 }
+
+h1 {
+  background: white;
+}
+
+.flex-row {
+  display: flex;
+}
