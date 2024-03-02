@@ -1,6 +1,7 @@
 body {
   margin: 0;
   background-image: url('/public/Background.jpg');
+  font-family: monospace;
 }
 
 img {
@@ -19,7 +20,8 @@ img {
   align-items: center;
   padding: 10px;
   margin: 10px;
-  background-color: white;
+  background-color: #409ddc;
+  color: white;
 }
 
 .card > h2,
@@ -32,7 +34,6 @@ img {
   flex-direction: row;
   flex-wrap: wrap;
   padding: 5px;
-  height: ;
 }
 
 .stats > div,
@@ -54,9 +55,33 @@ img {
 }
 
 h1 {
-  background: white;
+  background: #409ddc;
+  color: white;
+  text-transform: uppercase;
+  text-align: center;
+  padding: 20px;
 }
 
 .flex-row {
   display: flex;
+}
+
+.sidebar {
+  border: 5px solid lightgrey;
+  background-color: white;
+  margin: 5px;
+  border-radius: 20px;
+  padding: 10px;
+  background-color: #409ddc;
+  color: white;
+}
+.sidebar > h2 {
+  text-align: center;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  height: 250px;
+  justify-content: space-evenly;
 }
