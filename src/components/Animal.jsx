@@ -15,20 +15,19 @@ const Animal = (props) => {
           <div>Animal Type: {props.animal.type}</div>
           <div>Breed: {props.animal.breed}</div>
           <div>Sex: {props.animal.sex}</div>
+          <div>
+            {props.animal.colour.length > 1 ? (
+              <>
+                Colour: {props.animal.colour[0]} / {props.animal.colour[1]}
+              </>
+            ) : (
+              <>Colour: {props.animal.colour[0]}</>
+            )}
+          </div>
+          <div>Animal ID: {props.animal.guid}</div>
         </div>
       </div>
-      <div className="sentiments">
-        <div>
-          {props.animal.colour.length > 1 ? (
-            <>
-              Colour: {props.animal.colour[0]} / {props.animal.colour[1]}
-            </>
-          ) : (
-            <>Colour: {props.animal.colour[0]}</>
-          )}
-        </div>
-        <div>Animal ID: {props.animal.guid}</div>
-      </div>
+      <div className="sentiments"></div>
       <div>
         Likes:
         {props.animal.likes.map((like) => (

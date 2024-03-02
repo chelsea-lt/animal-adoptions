@@ -27,6 +27,26 @@ img {
   text-align: center;
 }
 
+.stats {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding: 5px;
+  height: ;
+}
+
+.stats > div,
+.stats > img {
+  padding: 5px;
+  height: 250px;
+}
+
+.stats > div {
+  width: 200px;
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: column;
+}
 .list {
   display: flex;
   flex-wrap: wrap;
