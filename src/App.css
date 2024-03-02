@@ -1,5 +1,6 @@
 body {
   margin: 0;
+  background-image: url('/public/Background.jpg');
 }
 
 img {
@@ -7,4 +8,27 @@ img {
   object-fit: contain;
   width: 200px;
   height: auto;
+}
+
+.card {
+  border: 5px solid lightgrey;
+  border-radius: 20px;
+  width: 30vw;
+  justify-content: space-around;
+  flex-direction: column;
+  align-items: center;
+  padding: 10px;
+  margin: 10px;
+  background-color: white;
+}
+
+.card > h2,
+.card > h3 {
+  text-align: center;
+}
+
+.list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
 }

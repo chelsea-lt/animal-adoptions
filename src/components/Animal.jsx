@@ -1,19 +1,24 @@
 import Like from './Like'
+import Dislike from './Dislike'
 
 const Animal = (props) => {
   return (
-    <div>
+    <div className="card">
       <h2>
         {props.animal.name}, {props.animal.age.years} years and{' '}
         {props.animal.age.months} months
       </h2>
       <h3>{props.animal.description}</h3>
-      <img src={props.animal.image} />
-      <div>
-        <ul>Animal Type: {props.animal.type}</ul>
-        <ul>Breed: {props.animal.breed}</ul>
-        <ul>Sex: {props.animal.sex}</ul>
-        <ul>
+      <div className="stats">
+        <img src={props.animal.image} />
+        <div>
+          <div>Animal Type: {props.animal.type}</div>
+          <div>Breed: {props.animal.breed}</div>
+          <div>Sex: {props.animal.sex}</div>
+        </div>
+      </div>
+      <div className="sentiments">
+        <div>
           {props.animal.colour.length > 1 ? (
             <>
               Colour: {props.animal.colour[0]} / {props.animal.colour[1]}
@@ -21,8 +26,8 @@ const Animal = (props) => {
           ) : (
             <>Colour: {props.animal.colour[0]}</>
           )}
-        </ul>
-        <ul>Animal ID: {props.animal.guid}</ul>
+        </div>
+        <div>Animal ID: {props.animal.guid}</div>
       </div>
       <div>
         Likes:
@@ -30,11 +35,12 @@ const Animal = (props) => {
           <Like key={like.id} like={like} />
         ))}
       </div>
-      {/* <div>
-        Dislikes
-        <li>{props.animal.dislikes[0]}</li>
-        <li>{props.animal.dislikes[1]}</li>
-      </div> */}
+      <div>
+        Dislikes:
+        {props.animal.dislikes.map((dislike) => (
+          <Dislike key={dislike.id} dislike={dislike} />
+        ))}
+      </div>
     </div>
   )
 }
