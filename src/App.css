@@ -1,5 +1,6 @@
 body {
   margin: 0;
+  margin-top: 0;
   background-image: url('/public/Background.jpg');
   font-family: monospace;
 }
@@ -69,7 +70,7 @@ h1 {
 .sidebar {
   border: 5px solid lightgrey;
   background-color: white;
-  margin: 5px;
+  margin: 20px;
   border-radius: 20px;
   padding: 10px;
   background-color: #409ddc;
