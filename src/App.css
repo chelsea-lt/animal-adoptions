@@ -55,11 +55,11 @@ img {
 }
 
 h1 {
-  background: #409ddc;
   color: white;
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
   text-align: center;
   padding: 20px;
+  font-size: xxx-large;
 }
 
 .flex-row {
@@ -99,10 +99,11 @@ form {
 
 .heart {
   width: 20px;
-  fill: white;
-  text-align: center;
 }
 
-.likes-list-items {
-  margin-left: 0px;
+.heading {
+  display: grid;
+  height: 200px;
+  grid-template-columns: 1fr 4fr;
+  background-color: #409ddc;
 }

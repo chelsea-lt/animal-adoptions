@@ -7,7 +7,10 @@ const App = () => {
   console.log(data)
   return (
     <div>
-      <h1>Animal Adoptions</h1>
+      <div className="heading">
+        <img src="/public/Logo3.png" />
+        <h1>Welcome to Chelsea's Pet Rescue Centre</h1>
+      </div>
       <div className="flex-row">
         <div>
           <SideBar />
