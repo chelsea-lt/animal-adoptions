@@ -1,9 +1,8 @@
 const Like = (props) => {
   return (
     <div>
-      <ul>
-        <li>{props.like.name}</li>
-      </ul>
+      <img className="heart" src="/heart1.png" />
+      {props.like.name}
     </div>
   )
 }

@@ -85,3 +85,24 @@ form {
   height: 250px;
   justify-content: space-evenly;
 }
+
+.sentiments {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  padding: 15px;
+}
+
+.sentiments > h3 {
+  width: 80px;
+}
+
+.heart {
+  width: 20px;
+  fill: white;
+  text-align: center;
+}
+
+.likes-list-items {
+  margin-left: 0px;
+}

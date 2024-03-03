@@ -1,9 +1,7 @@
 const Dislike = (props) => {
   return (
     <div>
-      <ul>
-        <li>{props.dislike.name}</li>
-      </ul>
+      <img className="heart" src="/broken-heart1.png" /> {props.dislike.name}
     </div>
   )
 }

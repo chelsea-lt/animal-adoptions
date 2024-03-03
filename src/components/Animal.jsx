@@ -27,18 +27,19 @@ const Animal = (props) => {
           <div>Animal ID: {props.animal.guid}</div>
         </div>
       </div>
-      <div className="sentiments"></div>
-      <div>
-        Likes:
-        {props.animal.likes.map((like) => (
-          <Like key={like.id} like={like} />
-        ))}
-      </div>
-      <div>
-        Dislikes:
-        {props.animal.dislikes.map((dislike) => (
-          <Dislike key={dislike.id} dislike={dislike} />
-        ))}
+      <div className="sentiments">
+        <div>
+          <h3>Likes</h3>
+          {props.animal.likes.map((like) => (
+            <Like key={like.id} like={like} />
+          ))}
+        </div>
+        <div>
+          <h3>Dislikes</h3>
+          {props.animal.dislikes.map((dislike) => (
+            <Dislike key={dislike.id} dislike={dislike} />
+          ))}
+        </div>
       </div>
     </div>
   )
