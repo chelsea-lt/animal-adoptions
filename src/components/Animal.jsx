@@ -8,7 +8,7 @@ const Animal = (props) => {
         {props.animal.name}, {props.animal.age.years} years and{' '}
         {props.animal.age.months} months
       </h2>
-      <h3>{props.animal.description}</h3>
+      <p>{props.animal.description}</p>
       <div className="stats">
         <img src={props.animal.image} />
         <div>
