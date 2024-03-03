@@ -45,7 +45,13 @@ const SideBar = () => {
           </select>
         </div>
         <div>
-          <input type="submit" value="Submit" />
+          <button
+            onClick={function handleClick() {
+              alert('Thanks for registering!')
+            }}
+          >
+            Submit
+          </button>
         </div>
       </form>
     </div>
