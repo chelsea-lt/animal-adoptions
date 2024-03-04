@@ -11,10 +11,10 @@ const App = () => {
         <img className="logo" src="Logo3.png" />
         <h1>Welcome to Chelsea's Pet Rescue Centre</h1>
         <nav>
-          <div>ADOPT</div>
-          <div>VOLUNTEER</div>
-          <div>ABOUT</div>
-          <div>CONTACT US</div>
+          <a href="/">ADOPT</a>
+          <a href="/volunteer">VOLUNTEER</a>
+          <a href="/about">ABOUT US</a>
+          <a href="mailto:contact@cprcsydney.com.au">CONTACT US</a>
         </nav>
       </div>
       <div className="flex-row">
