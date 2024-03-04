@@ -33,7 +33,7 @@ body {
 }
 
 .card > p {
-  height: 100px;
+  height: fit-content;
 }
 
 .stats {
@@ -67,7 +67,7 @@ h1 {
   /* text-transform: uppercase; */
   text-align: center;
   padding: 20px;
-  font-size: xxx-large;
+  font-size: 30pt;
 }
 
 .flex-row {
