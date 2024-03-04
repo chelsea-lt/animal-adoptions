@@ -68,6 +68,7 @@ h1 {
   text-align: center;
   padding: 20px;
   font-size: 30pt;
+  grid-area: header;
 }
 
 .flex-row {
@@ -113,11 +114,14 @@ form {
   display: grid;
   height: 200px;
   grid-template-columns: 1fr 4fr;
+  grid-template-rows: 150px 50px;
   background-color: #409ddc;
+  grid-template-areas: 'logo header' 'logo nav';
 }
 
 .logo {
   height: 200px;
+  grid-area: logo;
 }
 
 .dislikes span,
@@ -125,4 +129,10 @@ form {
   position: relative;
   top: -5px;
   margin-left: 5px;
+}
+
+nav {
+  grid-area: nav;
+  display: flex;
+  justify-content: space-between;
 }

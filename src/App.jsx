@@ -10,6 +10,12 @@ const App = () => {
       <div className="heading">
         <img className="logo" src="/public/Logo3.png" />
         <h1>Welcome to Chelsea's Pet Rescue Centre</h1>
+        <nav>
+          <div>ADOPT</div>
+          <div>VOLUNTEER</div>
+          <div>ABOUT</div>
+          <div>CONTACT US</div>
+        </nav>
       </div>
       <div className="flex-row">
         <div>
