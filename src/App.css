@@ -4,11 +4,13 @@ body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-img {
+.picture {
   display: flex;
-  object-fit: contain;
+  /* object-fit: contain; */
   width: 200px;
-  height: auto;
+  height: 200px;
+  border: 2px solid black;
+  object-fit: cover;
 }
 
 .card {
@@ -29,11 +31,16 @@ img {
   text-align: center;
 }
 
+.card > p {
+  height: 100px;
+}
+
 .stats {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
   padding: 5px;
+  justify-content: space-evenly;
 }
 
 .stats > div,
@@ -106,4 +113,8 @@ form {
   height: 200px;
   grid-template-columns: 1fr 4fr;
   background-color: #409ddc;
+}
+
+.logo {
+  height: 200px;
 }

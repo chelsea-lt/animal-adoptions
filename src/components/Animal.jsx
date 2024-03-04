@@ -10,7 +10,7 @@ const Animal = (props) => {
       </h2>
       <p>{props.animal.description}</p>
       <div className="stats">
-        <img src={props.animal.image} />
+        <img className="picture" src={props.animal.image} />
         <div>
           <div>Animal Type: {props.animal.type}</div>
           <div>Breed: {props.animal.breed}</div>
