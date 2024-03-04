@@ -1,8 +1,8 @@
 const Like = (props) => {
   return (
-    <div>
+    <div className="likes">
       <img className="heart" src="/heart1.png" />
-      {props.like.name}
+      <span>{props.like.name}</span>
     </div>
   )
 }

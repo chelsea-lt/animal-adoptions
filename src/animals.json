@@ -260,7 +260,7 @@
     },
     {
       "name": "Roscoe",
-      "image": "/Roscoe.jpeg",
+      "image": "/Roscoe1.jpeg",
       "type": "Dog",
       "sex": "Male",
       "breed": "American Staffordshire Terrier x Labrador Retriever",
@@ -620,7 +620,7 @@
     },
     {
       "name": "Jellybean",
-      "image": "/Jellybean.jpeg",
+      "image": "/Jellybean1.jpeg",
       "type": "Rabbit",
       "sex": "Female",
       "breed": "Flemish Giant",
@@ -726,7 +726,7 @@
     },
     {
       "name": "Raymond",
-      "image": "/Raymond.jpeg",
+      "image": "/Raymond1.jpeg",
       "type": "Guinea Pig",
       "sex": "Male",
       "breed": "Abyssinian",
@@ -870,7 +870,7 @@
     },
     {
       "name": "Woody",
-      "image": "/Woody.jpeg",
+      "image": "/Woody1.jpeg",
       "type": "Rabbit",
       "sex": "Male",
       "breed": "English Lop",
