@@ -15,6 +15,7 @@ const App = () => {
           <a href="/volunteer">VOLUNTEER</a>
           <a href="/about">ABOUT US</a>
           <a href="mailto:contact@cprcsydney.com.au">CONTACT US</a>
+          <a href="/donate">DONATE</a>
         </nav>
       </div>
       <div className="flex-row">
