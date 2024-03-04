@@ -114,7 +114,7 @@ form {
   display: grid;
   height: 200px;
   grid-template-columns: 1fr 4fr;
-  grid-template-rows: 150px 50px;
+  grid-template-rows: 130px 70px;
   background-color: #409ddc;
   grid-template-areas: 'logo header' 'logo nav';
 }
@@ -135,4 +135,7 @@ nav {
   grid-area: nav;
   display: flex;
   justify-content: space-between;
+  text-align: center;
+  padding: 20px 50px;
+  color: white;
 }
